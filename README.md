@@ -1,6 +1,6 @@
 # 🎥 YouTube Clone
 
-> A modern **YouTube-like video platform**, built using **React**, **Node.js**, **GQL**  
+> A modern **YouTube-like video platform**, built using **Nuxt.js**, **Node.js**, **GQL**  
 > Designed to demonstrate advanced **Real-time rendering**, and **seamless UI/UX performance**.
 
 ---
